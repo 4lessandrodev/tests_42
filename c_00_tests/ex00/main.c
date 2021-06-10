@@ -4,8 +4,6 @@ void	ft_putchar(char c);
 
 int	main(void)
 {
-	char	c;
-
 	printf("\n");
 	ft_putchar('1');
 	printf("\n");
